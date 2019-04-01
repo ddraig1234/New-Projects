@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_but_alarm12.xml",
+        "source": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\src\\main\\res\\menu\\menu_but_alarm12.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_alert_alarm.xml",
+        "source": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\src\\main\\res\\menu\\menu_alert_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sav12.xml",
+        "source": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\src\\main\\res\\menu\\menu_sav12.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_test.xml",
+        "source": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\src\\main\\res\\menu\\menu_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_but_alarm11.xml",
+        "source": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\src\\main\\res\\menu\\menu_but_alarm11.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sav11.xml",
+        "source": "C:\\Users\\CHOTU\\AndroidStudioProjects\\APPSENSE-Source Code\\app\\src\\main\\res\\menu\\menu_sav11.xml"
+    }
+]

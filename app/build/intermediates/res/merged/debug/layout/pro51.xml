@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Activate"
+        android:id="@+id/but_s1"
+        android:layout_gravity="center"
+        android:layout_above="@+id/but_s2"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Deactivate"
+        android:id="@+id/but_s2"
+        android:layout_gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/but_s1"
+        android:layout_alignStart="@+id/but_s1" />
+
+</RelativeLayout>

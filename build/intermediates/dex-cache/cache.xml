@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3675904942f7637a87c2eab2aadc7561a300659d">
+        <dex dex="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_28ff70302c59a23818c92acfc4b66baf073da64a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="dd6d9d6b815fcc4891ec846444d614b18b782060">
+        <dex dex="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3e2e093078a8e32eb6ed9dd50f2a65a820d58bea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_cbb9e5cbd6ed76e0cb4d16a54aed3f51c19de6ef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_6c36b95637f184fe123babc85f38bce95a8478ef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_f1dc1acf1824f0e352581ddcf609ed955f195841\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CHOTU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\CHOTU\AndroidStudioProjects\APPSENSE-Source Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_83d65e2da306b688e5e33673e84786783be6890e\classes.dex" />
+    </item>
+
+</items>
